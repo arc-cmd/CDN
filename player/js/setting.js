@@ -2928,12 +2928,13 @@ var YZM = {
                     _0x3f0d2b[_0x39a0('5b7', 'jKwS')]($, '#exithzh')['css'](_0x39a0('5b8', 'l6Lx'), _0x3f0d2b[_0x39a0('5b9', 'l6Lx')]);
                 } else {
                     var _0xb7b956 = 0x14;
+                    var _0xb7b958 = null;
                     for (var _0xb7b959 = 0x0; _0x3f0d2b[_0x39a0('5ba', '5riI')](_0xb7b959, _0x2a05ca[_0x39a0('5bb', 'NymL')]); _0xb7b959++) {
                         if (_0x3f0d2b[_0x39a0('5bc', '4Cxo')](_0x2a05ca[_0xb7b959]['id'], _0x50623a)) {
                             if ('lxMnH' === _0x39a0('5bd', 'WU6d')) {
                                 YZM['dp']['fullScreen'][_0x39a0('5be', 'pai&')]();
                             } else {
-                                var _0xb7b958 = _0x2a05ca[_0xb7b959][_0x39a0('46d', 'dbsp')];
+                                _0xb7b958 = _0x2a05ca[_0xb7b959][_0x39a0('46d', 'dbsp')];
                                 _0x2a05ca[_0x39a0('5cc', '[bAI')](_0xb7b959, 0x1);
                                 var _0xb7b957 = {'id': _0x50623a,'value': _0xb7b958};
                                 _0x2a05ca[_0x39a0('5a7', 'IvPR')](_0xb7b957);
