@@ -2935,10 +2935,12 @@ var YZM = {
                                 YZM['dp']['fullScreen'][_0x39a0('5be', 'pai&')]();
                             } else {
                                 _0xb7b958 = _0x2a05ca[_0xb7b959][_0x39a0('46d', 'dbsp')];
-                                _0x2a05ca[_0x39a0('5cc', '[bAI')](_0xb7b959, 0x1);
-                                var _0xb7b957 = {'id': _0x50623a,'value': _0xb7b958};
-                                _0x2a05ca[_0x39a0('5a7', 'IvPR')](_0xb7b957);
                                 YZM[_0x2bbdc2] = _0x2a05ca[_0x39a0('5bb', 'NymL')]-0x1;
+                                if (_0xb7b959 !== YZM[_0x2bbdc2]) {
+                                    _0x2a05ca[_0x39a0('5cc', '[bAI')](_0xb7b959, 0x1);
+                                    var _0xb7b957 = {'id': _0x50623a,'value': _0xb7b958};
+                                    _0x2a05ca[_0x39a0('5a7', 'IvPR')](_0xb7b957);
+                                }
                                 break;
                             }
                         }
